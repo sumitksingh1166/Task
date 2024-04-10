@@ -5,5 +5,5 @@ THis project has been build by using  HTML5,Vanila Css,Javascript
 ![](https://github.com/sumitksingh1166/Task/blob/main/ScreenShots/Screenshot%202024-04-10%20150201.png)
 ![](https://github.com/sumitksingh1166/Task/blob/main/ScreenShots/Screenshot%202024-04-10%20150229.png)
 ## 2. About Us Page
-![](https://github.com/sumitksingh1166/Task/blob/main/ScreenShots/Screenshot%202024-04-10%20150229.png)
+![](https://github.com/sumitksingh1166/Task/blob/main/ScreenShots/Screenshot%202024-04-10%20150245.png)
 ## Name-Sumit Kumar Singh
